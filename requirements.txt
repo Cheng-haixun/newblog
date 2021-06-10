@@ -11,7 +11,7 @@ cryptography==2.7
 cssselect==1.1.0
 dj-database-url==0.5.0
 dj-static==0.0.6
-Django==2.2.4
+Django==2.2.24
 Flask==1.1.1
 Flask-Cors==3.0.8
 Flask-Migrate==2.5.2
